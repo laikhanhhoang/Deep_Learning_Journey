@@ -1,6 +1,6 @@
 # Deep Learning Journey
 
-## 📚 Table of Contents
+## 📑 Table of Contents
 
 - [📘 About](#-about)
 - [📚 Course Content](#-course-content)
