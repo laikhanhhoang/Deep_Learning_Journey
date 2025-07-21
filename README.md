@@ -2,9 +2,7 @@
 
 ## 📘 About
 
-This repository documents my self-study of Deep Learning through an online Udemy course:  
-**[The Complete Neural Networks Bootcamp: Theory, Applications](https://www.udemy.com/course/the-complete-neural-networks-bootcamp-theory-applications/?couponCode=KEEPLEARNING)**,  
-covering core topics like MLP, CNN, RNN, Transformers, and modern applications such as NLP, CV, and LLMs.
+This repository documents my self-study of Deep Learning through an online Udemy course: **[The Complete Neural Networks Bootcamp: Theory, Applications](https://www.udemy.com/course/the-complete-neural-networks-bootcamp-theory-applications/)** covering core topics like MLP, CNN, RNN, Transformers, and modern applications such as NLP, CV, and LLMs.
 
 
 
