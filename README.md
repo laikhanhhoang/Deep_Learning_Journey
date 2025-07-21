@@ -22,5 +22,5 @@ This repository documents my self-study of Deep Learning through an online Udemy
 
 | Section    | Title            | Summary                                                                                                       | Note and Code                |
 |------------|------------------|---------------------------------------------------------------------------------------------------------------|------------------------------|
-| 1  | How Neural Networks and Backpropagation Works     | - Theory of Gradient Descent & Propagation<br>- Fwd/Bwd  propagation for a MLP | ✍️ [Handwritten](https://github.com/laikhanhhoang/Deep_Learning_Journey/blob/main/Lecture_Note/Section%201%20-%20How%20Neural%20Networks%20and%20Back%20Propagation%20Work.pdf) <br>💻 No code|
+| 1  | How Neural Networks and Backpropagation Works     | - Theory of Gradient Descent & Propagation<br>- Fwd/Bwd  propagation for a MLP | ✍️ [Written](https://github.com/laikhanhhoang/Deep_Learning_Journey/blob/main/Lecture_Note/Section%201%20-%20How%20Neural%20Networks%20and%20Back%20Propagation%20Work.pdf) <br>💻 No code|
 
