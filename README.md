@@ -6,7 +6,7 @@ This repository documents my self-study of Deep Learning through an online Udemy
 
 
 
-## Course content
+## 📚 Course content
 
 | Section    | Title            | Summary                                                                                                       | Note and Code                |
 |------------|------------------|---------------------------------------------------------------------------------------------------------------|------------------------------|
