@@ -50,3 +50,4 @@ This repository documents my self-study of Deep Learning through an online Udemy
 |33| Transformers|Fundamental of Transformers: Multi-head Attention, Subsequent mask,...| ✍️[W](https://github.com/laikhanhhoang/Deep_Learning_Journey/blob/main/Lecture_Note/Section%2033%20-%20Transformers.pdf)|
 |34| Build a Chatbot with Transformer| Implement the chatbot's architecture as shown in section 33| 💻 [Nb](https://github.com/laikhanhhoang/Deep_Learning_Journey/tree/main/Code/Section34_BuildaChatbotwithTransformer)|
 |37| BERT| BERT architecture and fine-tune technique| ✍️[W](https://github.com/laikhanhhoang/Deep_Learning_Journey/blob/main/Lecture_Note/Section%2037%20-%20BERT.pdf)|
+|39| GPTs| Implementing GPT2's architect from scratch| 💻 [Nb](https://github.com/laikhanhhoang/Deep_Learning_Journey/blob/main/Code/Section39_GPT2_implemented_from_scratch.ipynb)|
