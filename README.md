@@ -5,8 +5,8 @@
 - [📘 About](#-about)
 - [📚 Course Content](#-course-content)
 - [🧠 What I've Learned](#-what-ive-learned)
-- [📖 Supplementary Reading](#-supplementary-reading)
 - [🎓 Certificate](#-certificate)
+- - [📖 Supplementary Reading](#-supplementary-reading)
 
 ## 📘 About
 
@@ -14,9 +14,9 @@ This repository documents my self-study of Deep Learning through an online Udemy
 
 ## 🧠 What I've Learned
 
-## 📖 Supplementary Reading
-
 ## 🎓 Certificate
+
+## 📖 Supplementary Reading
 
 ## 📚 Course content
 
