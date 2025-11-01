@@ -6,7 +6,7 @@
 - [📚 Course Content](#-course-content)
 - [🧠 What I've Learned](#-what-ive-learned)
 - [🎓 Certificate](#-certificate)
-- - [📖 Supplementary Reading](#-supplementary-reading)
+- [📖 Supplementary Reading](#-supplementary-reading)
 
 ## 📘 About
 
