@@ -15,7 +15,8 @@ This repository documents my self-study of Deep Learning through an online Udemy
 ## 🧠 What I've Learned
 
 ## 🎓 Certificate
-![](DL_Certification.jpg)
+<img src="DL_Certification.jpg" width="300">
+
 
 ## 📖 Supplementary Reading
 
