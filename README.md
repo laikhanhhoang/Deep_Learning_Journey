@@ -14,6 +14,17 @@ This repository documents my self-study of Deep Learning through an online Udemy
 
 ## 🧠 What I've Learned
 
+The course provided me with a solid foundation in Deep Learning, guiding me from implementing a basic MLP network to reconstructing the GPT-2 architecture from scratch, specifically as follows:
+
+- Fundamental knowledge of Neural Networks
+  - Understood the workings of perceptrons and Multi-Layer Perceptrons (MLPs)
+  - Learned forward and backward propagation, and optimization using gradient descent
+
+- Hands-on coding from basic to advanced
+  - Built an MLP from scratch using PyTorch, mastering layer definitions, loss functions, optimizers, and training loops
+  - Implemented regularization techniques such as Dropout and Batch Normalization
+
+
 ## 🎓 Certificate
 <p align="center">
   <img src="DL_Certification.jpg" width="600">
