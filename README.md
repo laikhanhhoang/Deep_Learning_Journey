@@ -3,10 +3,12 @@
 ## 📑 Table of Contents
 
 - [📘 About](#-about)
-- [📚 Course Content](#-course-content)
 - [🧠 What I've Learned](#-what-ive-learned)
+- [🎓 Personal Projects](#-personal-projects)
 - [🎓 Certificate](#-certificate)
 - [📖 Supplementary Reading](#-supplementary-reading)
+- [📚 Course Content](#-course-content)
+
 
 ## 📘 About
 
@@ -41,6 +43,7 @@ The course provided me with a solid foundation in Deep Learning, guiding me from
   <img src="DL_Certification.jpg" width="600">
 </p>
 
+## 🎓 Personal Projects
 
 ## 📖 Supplementary Reading
 
