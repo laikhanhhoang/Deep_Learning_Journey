@@ -18,11 +18,22 @@ The course provided me with a solid foundation in Deep Learning, guiding me from
 
 - Fundamental knowledge of Neural Networks
   - Understood the workings of perceptrons and Multi-Layer Perceptrons (MLPs)
-  - Learned forward and backward propagation, and optimization using gradient descent
+  - Learned forward and backward propagation, optimization using gradient descent, and weight initialization techniques
+  - Regularization techniques such as Dropout and Batch Normalization
 
-- Hands-on coding from basic to advanced
-  - Built an MLP from scratch using PyTorch, mastering layer definitions, loss functions, optimizers, and training loops
-  - Implemented regularization techniques such as Dropout and Batch Normalization
+- Hands-on coding from basic to advanced with PyTorch, mastering layer definitions, loss functions, optimizers, and training loops
+
+- Convolutional Neural Networks (CNNs)
+  - Famous architectures: ResNet, VGG
+  - Techniques and applications: Transfer Learning, Object Detection (YOLO), Autoencoders (AE/VAE), Neural Style Transfer
+
+- Recurrent Neural Networks (RNNs)
+  - Variants: LSTM, GRU, and others
+  - Applications: Chatbots, Image Captioning, Sequence Modeling
+
+- Transformers
+  - Famous architectures: BERT, GPT-2, Vision Transformer (ViT)
+  - Applications: Chatbots, Natural Language Understanding, Image Classification
 
 
 ## 🎓 Certificate
