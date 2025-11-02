@@ -31,7 +31,7 @@ The course provided me with a solid foundation in Deep Learning, guiding me from
 
 - Recurrent Neural Networks (RNNs)
   - Variants: LSTM, GRU, and others
-  - Applications: Chatbots, Image Captioning, Sequence Modeling
+  - Applications: Chatbots, Image Captioning
 
 - Transformers
   - Famous architectures: BERT, GPT-2, Vision Transformer (ViT)
