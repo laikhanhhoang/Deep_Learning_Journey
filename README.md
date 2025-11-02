@@ -44,6 +44,9 @@ The course provided me with a solid foundation in Deep Learning, guiding me from
 
 ## 📖 Supplementary Reading
 
+- [Dive to Deep Learning](https://d2l.ai/)
+- [Attention is all you need (2017)](https://arxiv.org/abs/1706.03762)
+
 ## 📚 Course content
 
 | Section    | Title            | Summary                                                                                                       | Note and Code                |
